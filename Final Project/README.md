@@ -10,7 +10,7 @@ I created this project so that it could aid myself in game creation
 Probability and Probability test are needed to run the program, probProj is an older project
 from an earlier class. It is included int the file but is not needed to run the program
 intended for this submission.
-[Here is the program running](Probability Calculator Running.png)
+[Here is the program running](Probability_Calculator_Running.png)
 
 ## Code Example
 Here is a small sample of code that I am proud of
