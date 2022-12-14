@@ -15,7 +15,7 @@ intended for this submission.
 ## Code Example
 Here is a small sample of code that I am proud of
 
-      Toggle identify1 = group.getSelectedToggle();
+      			Toggle identify1 = group.getSelectedToggle();
 			int input1 = Integer.valueOf(((Node) identify1).getId());
 			
 			Toggle identify2 = group2.getSelectedToggle();
